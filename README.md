@@ -1,4 +1,5 @@
 # Free File Hosting Websites
+* [Smash](https://fromsmash.com/)
 * [Mirrored](https://www.mirrored.to/)
 * [GoFile](https://gofile.io/)
 * [MegaUp](https://megaup.net/)
